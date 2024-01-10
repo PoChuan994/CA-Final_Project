@@ -58,7 +58,7 @@ int main() {
 
         fprintf(fptr, "\tt");
         fprintf(fptr, "%d",i);
-        fprintf(fptr, "_u: .word: ");
+        fprintf(fptr, "_u: .word 0x");
         // fprintf(fptr, "%s", hexString);
         fprintf(fptr, "%s", temp1);
         fprintf(fptr, "\t\t # upper bits of test data");
@@ -66,7 +66,7 @@ int main() {
         fprintf(fptr, "\n");
         fprintf(fptr, "\tt");
         fprintf(fptr, "%d",i);
-        fprintf(fptr, "_l: .word: ");
+        fprintf(fptr, "_l: .word 0x");
         // fprintf(fptr, "%s", hexString);
         fprintf(fptr, "%s", temp2);
         fprintf(fptr, "\t\t # upper bits of test data");
