@@ -76,6 +76,11 @@ int main() {
 
     fprintf(fptr,"\tTEST_DATA_NUMS: .word ");
     fprintf(fptr, "%d", 3);
+    fprintf(fptr, "\n");
+    fprintf(fptr, 'str1: .string "The test data is "\n');
+    fprintf(fptr, 'str2: .string "Result is "\n');
+    fprintf(fptr, 'str3: .string "\');
+    fprintf(fptr, 'n"');
     fclose(fptr);
 
     return 0;
