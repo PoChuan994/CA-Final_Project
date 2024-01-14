@@ -1,0 +1,2 @@
+./Ripes-v2.2.6-linux-x86_64.AppImage  --src ~/CA/Final/CA-Final_Project/CA-Final_Project/final.s --mode cli -t asm --proc RV32_5S --cycles
+./Ripes-v2.2.6-linux-x86_64.AppImage  --src ~/CA/HW1/Computer-Architecture-Homework-1/CA_HW1_V2.s --mode cli -t asm --proc RV32_5S --cycles
