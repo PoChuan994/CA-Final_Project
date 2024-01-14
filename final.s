@@ -6,9 +6,9 @@
 	t2_u: .word 0x112AB2BE		 # upper bits of test data2
 	t2_l: .word 0x04BB7B06		 # upper bits of test data2
 	TEST_DATA_NUMS: .word 3
-    str1: .string "The test data is "
-    str2: .string "Result is "
-    str3: .string "\n"
+    	str1: .string "The test data is "
+    	str2: .string "Result is "
+    	str3: .string "\n"
 .text
     la    s0, t0_u                # address of upper bits of 1st test data
     li    s1, 0                   # int i=0
