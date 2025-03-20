@@ -8,7 +8,7 @@
 - This project achieve half execution time than that of [Computer Architecture HW1](https://github.com/PoChuan994/Computer-Architecture-Homework-1)
 # Implementation Result
 ## Execution comparison:
-  - Using the following commands to compare the clock cycle times of [Final Project](https://github.com/PoChuan994/CA-Final_Project/) and [Computer Architecture HW1](https://github.com/PoChuan994/Computer-Architecture-Homework-1)
+  - Using the following commands to compare the clock cycle times of [Final Project](https://github.com/PoChuan994/CA-Final_Project/) and [Computer Architecture HW1].(https://github.com/PoChuan994/Computer-Architecture-Homework-1)
     ```shell=
     ./Ripes-v2.2.6-linux-x86_64.AppImage  --src ~/CA/Final/CA-Final_Project/CA-Final_Project/final.s --mode cli -t asm --proc RV32_5S --cycles
     ./Ripes-v2.2.6-linux-x86_64.AppImage  --src ~/CA/HW1/Computer-Architecture-Homework-1/CA_HW1_V2.s --mode cli -t asm --proc RV32_5S --cycles
