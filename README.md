@@ -1,3 +1,6 @@
-# CA-Final_Project
-- This repository is corresponds to the [final project](https://hackmd.io/@sysprog/arch2023-projects) in Computer Architecture.
-- More detailed descriptions of this work can be seen at this [link](https://hackmd.io/@c3qLIGuDRtWykAmg5L50Ww/CA-final-project).
+# Introduction
+- More implementation detailed information is at [here](https://hackmd.io/@c3qLIGuDRtWykAmg5L50Ww/CA-Final/https%3A%2F%2Fhackmd.io%2F%40c3qLIGuDRtWykAmg5L50Ww%2FCA-Final-Intro)
+
+# Implementation
+
+# Reference
