@@ -1,11 +1,13 @@
 # Introduction
-- More detailed implementation information is at [here](https://hackmd.io/@c3qLIGuDRtWykAmg5L50Ww/CA-Final/https%3A%2F%2Fhackmd.io%2F%40c3qLIGuDRtWykAmg5L50Ww%2FCA-Final-Intro)
+- This project achieve half execution time than that of [Computer Architecture HW1](https://github.com/PoChuan994/Computer-Architecture-Homework-1)
+- Use *Counting Leading Zero* (*CLZ*) algorithm which is suitable for disk alloction to design a data searching task.
 - This project completed the requirements listed bellow:
   - Improved the performance and functionality from [Computer Architecture HW1](https://github.com/PoChuan994/Computer-Architecture-Homework-1).
   - Dynamically generated the test data.
   - Analyzed the CPU stalls to improve the performance according to the analysis.
   - Utilized RISC-V ISA instruction effectively.
-- This project achieve half execution time than that of [Computer Architecture HW1](https://github.com/PoChuan994/Computer-Architecture-Homework-1)
+- More detailed implementation information is at [here](https://hackmd.io/@c3qLIGuDRtWykAmg5L50Ww/CA-Final/https%3A%2F%2Fhackmd.io%2F%40c3qLIGuDRtWykAmg5L50Ww%2FCA-Final-Intro)
+
 # Implementation Result
 ## Execution comparison:
   - Using the following commands to compare the clock cycle times of [Final Project](https://github.com/PoChuan994/CA-Final_Project/) and [Computer Architecture HW1](https://github.com/PoChuan994/Computer-Architecture-Homework-1)
